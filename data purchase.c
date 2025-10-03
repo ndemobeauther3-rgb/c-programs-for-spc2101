@@ -1,4 +1,4 @@
-//HELLO WOLRD
+
 /*
 NAME: BEAUTHER NDEMO
 REG NO: PA106/28704/25
@@ -34,4 +34,5 @@ int main()
 		
 	}
 	return 0;
+
 }
