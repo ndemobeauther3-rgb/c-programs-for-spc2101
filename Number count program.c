@@ -1,6 +1,6 @@
 /*
-Name: Griffin Mutali
-REG NO: PA106/G/28744/25
+Name: Beauther Ndemo
+REG NO: PA106/G/28704/25
 ASSIGNMENT WEEK 4: Number Program
 */
 
@@ -12,4 +12,5 @@ int i;
 		
 		printf("%d\n",i);}
 	return 0;
+
 }
