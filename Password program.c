@@ -1,7 +1,6 @@
-//hello world
 /*
-Name: Griffin Mutali
-REG NO: PA106/G/28744/25
+Name: Beauther Ndemo
+REG NO: PA106/G/28704/25
 ASSIGNMENT WEEK 4: Password Program
 */
 
@@ -21,4 +20,5 @@ int main()
 	printf("Access Granted\n");
 	
 	return 0;
+
 }
