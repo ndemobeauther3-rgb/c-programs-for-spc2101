@@ -1,6 +1,6 @@
 /*
-Name: Griffin Mutali
-REG NO: PA106/G/28744/25
+Name: Beauther Ndemo
+REG NO: PA106/G/28704/25
 ASSIGNMENT WEEK 4: ATM Withdrawal Program
 */
 #include <stdio.h>
@@ -21,4 +21,5 @@ int main()
 	
 	printf("Account balance is zero or negative.\n");
 	return 0;
+
 }
