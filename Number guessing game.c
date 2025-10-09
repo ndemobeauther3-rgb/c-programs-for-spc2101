@@ -1,6 +1,6 @@
 /*
-Name: Griffin Mutali
-REG NO: PA106/G/28744/25
+Name: Beauther Nedmo
+REG NO: PA106/G/28704/25
 ASSIGNMENT WEEK 4: Number Guessing Game
 */
 
@@ -32,4 +32,5 @@ int main()
 	}
 	return 0;
 	
+
 }
